@@ -44,7 +44,7 @@ var languageStrings = {
                 "The temperature inside the Sun can reach 15 million degrees Celsius.",
                 "The Moon is moving approximately 3.8 cm away from our planet every year."
             ],
-            "SKILL_NAME" : "American Space Facts",
+            "SKILL_NAME" : "Fact Point",
             "GET_FACT_MESSAGE" : "Here's your fact: ",
             "HELP_MESSAGE" : "You can say tell me a space fact, or, you can say exit... What can I help you with?",
             "HELP_REPROMPT" : "What can I help you with?",
